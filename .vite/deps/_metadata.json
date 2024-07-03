@@ -1,0 +1,49 @@
+{
+  "hash": "0dc0ea92",
+  "configHash": "8b22509b",
+  "lockfileHash": "c1198620",
+  "browserHash": "3e3a04f2",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "92e7b521",
+      "needsInterop": false
+    },
+    "primevue/button": {
+      "src": "../../node_modules/primevue/button/index.mjs",
+      "file": "primevue_button.js",
+      "fileHash": "1eea87b4",
+      "needsInterop": false
+    },
+    "primevue/image": {
+      "src": "../../node_modules/primevue/image/index.mjs",
+      "file": "primevue_image.js",
+      "fileHash": "422696b0",
+      "needsInterop": false
+    },
+    "primevue/config": {
+      "src": "../../node_modules/primevue/config/index.mjs",
+      "file": "primevue_config.js",
+      "fileHash": "f127bfce",
+      "needsInterop": false
+    },
+    "@primevue/themes/aura": {
+      "src": "../../node_modules/@primevue/themes/aura/index.mjs",
+      "file": "@primevue_themes_aura.js",
+      "fileHash": "8d2154e0",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-6KDIFA3A": {
+      "file": "chunk-6KDIFA3A.js"
+    },
+    "chunk-4J7PNCQO": {
+      "file": "chunk-4J7PNCQO.js"
+    },
+    "chunk-Q4GJSH4P": {
+      "file": "chunk-Q4GJSH4P.js"
+    }
+  }
+}
